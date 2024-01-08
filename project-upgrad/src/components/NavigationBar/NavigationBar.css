@@ -1,0 +1,10 @@
+.logo-container {
+	display: flex;
+	gap: 8;
+}
+
+.navbar-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
